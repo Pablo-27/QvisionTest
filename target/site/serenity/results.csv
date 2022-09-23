@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login Bon Bonite","Login","FAILURE","2022-09-23T08:23:05.9085015-05:00[America/Bogota]","0.0","19.95"
+"Create Account on Conduit","Create Account","PENDING","2022-09-23T15:25:29.8912523-05:00[America/Bogota]","0.0","0.43"
+"Login Bon Bonite","Login Bon Bonite","SUCCESS","2022-09-23T14:19:28.6762791-05:00[America/Bogota]","0.0","17.9"
+"Create Account on Conduit","Login Conduit","SUCCESS","2022-09-23T16:02:31.3583464-05:00[America/Bogota]","0.0","28.5"

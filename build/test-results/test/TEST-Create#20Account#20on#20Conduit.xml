@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Create Account on Conduit" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-23T21:02:30" hostname="SSMEDLAPPROJM72" time="35.086">
+  <properties/>
+  <testcase name="Login Conduit" classname="Create Account on Conduit" time="35.086"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/juan.marquez/Juan_Automation/QvisionTest/src/test/resources/features/loginconduit.feature
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Login Conduit(create-account-on-conduit;login-conduit)
+--------------------------------------------------------------------------------
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.FirefoxDriverProvider - Using automatically driver download
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.31.0 (resolved driver for Firefox 104)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\juan.marquez\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+sept. 23, 2022 4:02:33 P. M. org.openqa.selenium.remote.DesiredCapabilities firefox
+INFORMACIÓN: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: true, browserName: firefox, firefox_profile: org.openqa.selenium.firefox..., headless: false, loggingPrefs: org.openqa.selenium.logging..., marionette: true, moz:firefoxOptions: {}}
+1663966956759	geckodriver	INFO	Listening on 127.0.0.1:33257
+1663966957371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JUAN~1.MAR\\AppData\\Local\\Temp\\rust_mozprofilexTWqjP"
+1663966959003	Marionette	INFO	Marionette enabled
+1663966959015	Marionette	INFO	Listening on port 61190
+Read port: 61190
+1663966959516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JUAN~1.MAR\\AppData\\Local\\Temp\\rust_mozprofilexTWqjP\\search.json.mozlz4", (void 0)))
+sept. 23, 2022 4:02:45 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://angular.realworld.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://angular.realworld.io."
+1663966980042	Marionette	INFO	Stopped listening on port 61190
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+Login Conduit
+----------------------------------------------------------------------
+]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Login Bon Bonite" skipped="0" tests="1" time="19.95" timestamp="2022-09-23 08:23:05"><testcase name="Login"><failure message="&#10;Expected: &quot;1193482232.&quot;&#10;     but: was &quot;1193482232&quot;" type="java.lang.AssertionError">
+Expected: "1193482232."
+     but: was "1193482232"</failure><system-err>
+Expected: "1193482232."
+     but: was "1193482232"&#13;
+stepdefinitions.LoginBonBoniteStepDefinitions.validateThatThePageContains(LoginBonBoniteStepDefinitions.java:36)&#13;
+✽.validate that the page contains "1193482232."(file:///C:/Users/juan.marquez/Juan_Automation/QvisionTest/src/test/resources/features/bonbonite.feature:9)&#13;
+</system-err></testcase></testsuite>
