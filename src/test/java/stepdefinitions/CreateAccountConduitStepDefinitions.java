@@ -1,6 +1,6 @@
 package stepdefinitions;
 
-import io.cucumber.java.Before;
+import  io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -23,6 +23,7 @@ public class CreateAccountConduitStepDefinitions {
     public void wantsToNavigateToConduitPage(String actor, String url) {
         theActor(actor).wasAbleTo(Open.url(url));
     }
+
     @When("creates an account with username {string} and email {string} and password {string}")
     public void createsAnAccountWithUsernameAndEmailAndPassword(String username, String string2, String string3) {
 
